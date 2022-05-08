@@ -29,3 +29,14 @@ Creating dedicated software for various businesses, such as:
 - Process automation
 - Varied Apps
 - **_Technologies used:_** CSS, Html, PHP, React, Angular, JavaScript, MongoDB, .NET, Python, Android, Oracle
+
+🔹 **Operational manager** [WingStop Restaurants](https://www.wingstop.com.mx) _(May 2016 - Dic 2017)_ <br>
+Managing restaurant staff. Review the accounting, human resources and warehouses so that everything works to achieve the objectives, generating a pleasant atmosphere and great service for the client. Ensuring better income for the business
+- **_Technologies used:_** Microsoft Office.
+
+
+## 💬 Languages
+
+**Español**: Native <br>
+**English**: B2
+<br><br>
